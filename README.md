@@ -1,7 +1,7 @@
 gorbit
 ======
 
-Making the freely available and excellent Orbis data just a little bit more easy to use.
+Making the freely available and excellent Orbis data just a little bit easier to use.
 
 Two sources of Orbis data were used to start this repository:
 
