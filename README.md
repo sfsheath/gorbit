@@ -12,4 +12,5 @@ Three sources of Orbis data were used to start this repository:
 Notes
 =====
 
-gorbit-nodes is combination of nodes from the github and purl.stanford.edu data.
+* gorbit-nodes is combination of nodes from the github and purl.stanford.edu data.
+* gorbit-sites.csv is a conversion of the JSON in api-sites.json into CSV. This was done in RStudio.
